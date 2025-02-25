@@ -1,0 +1,13 @@
+# Folders
+.idea/
+.vscode/
+.ipynb_checkpoints/
+__pycache__
+*logs/
+
+# Files
+nohup.out
+
+# Checkpoints
+checkpoints/
+*.ckpt
