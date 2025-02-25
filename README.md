@@ -78,3 +78,7 @@ python train.py --help
 
 ## Predicting
 Example of inference and visualization of the predictions is given in `prediction.ipynb`.
+
+## Report
+
+A full report of the project is available in the `report_latex/report.pdf` file.
